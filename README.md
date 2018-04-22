@@ -168,7 +168,7 @@ sudo apt-get install xclip
 
 ## 使用展示
 
-![1524389115646](/tmp/1524389115646.png)  
+![1524389115646](http://image.3001.net/images/20180422/15243905036051.png)    
 
 
 
